@@ -21,7 +21,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - alembic-jekyll-theme.gemspec
-  - .jekyll-cache
+  # - .jekyll-cache
 
 # 2. Installed Gems
 plugins:
@@ -34,10 +34,10 @@ plugins:
   - jekyll-commonmark
   - jekyll-include-cache
   - jemoji
-  - jekyll-remote-theme
+  # - jekyll-remote-theme
 
 # 3. Gem settings
-paginate: 2 # jekyll-paginate > items per page
+paginate: 5 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
@@ -91,20 +91,23 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+lang: vi # Set the site language
+title: "Manh Do" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
-baseurl: ""
+description: "" # Site description and default description, also used in jekyll-seo-tag
+
+url: "https://manhcntt21.github.io/" # Site url, also used in jekyll-seo-tag
+# url: "http://localhost:4000/" # Site url, also used in jekyll-seo-tag
+# baseurl: "http://localhost:4000/"
+
 repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
-# disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-# date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
+email: "dotruongmanh@gmail.com"
+disqus: "https-manhcntt21-github-io" # Blog post comments, uncomment the option and set the site ID from your Disqus account
+date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
 # google_analytics_anonymize_ip: ""
-# service_worker: false # Will turn off the service worker if set to false
-# short_name: "Al" # The web application short name, defaults to the site title
+service_worker: false # Will turn off the service worker if set to false
+short_name: "MANHITBKHN" # The web application short name, defaults to the site title
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # 8. Site favicons & manifest icons
@@ -120,22 +123,22 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-  - title: Home
+  - title: About me
     url: /
-  - title: Elements
-    url: /elements/
+  # - title: Elements
+  #   url: /elements/
   - title: Blog
     url: /blog/
   - title: Categories
     url: /categories/
   - title: Search
     url: /search/
-  - title: Fork Alembic
-    url: https://github.com/daviddarnes/alembic
+  # - title: Fork Alembic
+  #   url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-  - title: Created by David Darnes
-    url: https://darn.es
+  - title: Adopted Alembic Theme
+    url: https://alembic.darn.es/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
@@ -155,6 +158,8 @@ sharing_links: # Appear at the bottom of single blog posts, add as desired. The 
 #      If multiple fonts can be requested in a single url opt for this
 fonts:
   preconnect_urls:
-    - https://fonts.gstatic.com
+    # - https://fonts.gstatic.com
   font_urls:
-    - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
+    # - https://fonts.googleapis.com/css2?family=Roboto&display=swap
+    #   - https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@100;200;300&display=swap
+    # - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
