@@ -60,7 +60,7 @@ sass:
   style: compressed # Style compression
 permalink: pretty # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+timezone: Asia/Bangkok # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
@@ -69,7 +69,7 @@ collections:
     output: true
     description: "My thoughts and ideas" # The post list page content
     feature_text: |
-      Welcome to the blog
+      Chào mừng bạn đã đặt chân đến thế giới của tui. Những điều tôi không thể nói, đã từng muốn nói rồi lại thôi hay những điều đã nói rồi. Tất cả sẽ có ở đây
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
