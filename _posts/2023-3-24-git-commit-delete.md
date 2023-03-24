@@ -1,5 +1,5 @@
 ---
-title: Git commit phần 2: Xoá một commit
+title: Git commit phần 2, xoá một commit
 categories:
   - git
   - git-basic
@@ -36,13 +36,13 @@ b. unstracked file: đây là trạng thái khi ta thêm một file vào git mà
 
 Với trạng thái tracked file lại chia thành 3 trạng thái nhỏ nữa:
 
-a1. modified: một file đã git track thông qua hoạt động commit trong quá khứ, sau đó bị chỉnh sửa sẽ có trạng thái này
+a1. modified: một file git đã track thông qua hoạt động commit trong quá khứ, sau đó bị chỉnh sửa sẽ có trạng thái này
 
 ![modified](/assets/images/2023-03-25/modified.png)
 
 <center>Hình 2: Ví dụ về modified file</center>
 
-a2. staging: đây là trạng thái mà các file được chuẩn bị để cho lần commit tiếp theo, thông qua lệnh **git add**, cụ thể hơn từ trạng thái modified hoặc unstracked sẽ đến staging thông qua git add
+a2. staging: đây là trạng thái mà các file được chuẩn bị để cho lần commit tiếp theo, thông qua lệnh **git add**, cụ thể hơn từ trạng thái modified hoặc unstracked sẽ đến trạng thái staging thông qua **git add**
 
 ![staging](/assets/images/2023-03-25/staging.png)
 
@@ -107,4 +107,5 @@ git reset --mixed (commit-hard) or git reset (commit-hard)
 Mình viết bài này hoàn toàn là vì cộng đồng, nhưng nếu các bạn thấy hay, có ích mà muốn donate cho mình, mình rất cảm ơn, cũng như là một nguồn động lực to lớn để mình ra được các bài viết chất lượng hơn.
 
 Buy me a coffee
+
 ![Buy me a coffee](/assets/images/coffe.jpg)

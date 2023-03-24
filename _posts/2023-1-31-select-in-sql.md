@@ -41,3 +41,11 @@ where
 -- x hoặc x.id đều được
 ```
 Biến x ở trên tuỳ thuộc vào từng RDBMS mà có bắt buộc hay không, nếu bạn dùng SQL Server thì bắt buộc phải có, nó là tên của INLINE VIEW. Nó chạy được là do theo thứ tự đã nói ở trên FROM > WHERE, nên ở WHERE nó hiểu và quá trình thực thi câu lệnh chắc chắn thành công.
+
+* Cuối cùng
+
+Mình viết bài này hoàn toàn là vì cộng đồng, nhưng nếu các bạn thấy hay, có ích mà muốn donate cho mình, mình rất cảm ơn, cũng như là một nguồn động lực to lớn để mình ra được các bài viết chất lượng hơn.
+
+Buy me a coffee
+
+![Buy me a coffee](/assets/images/coffe.jpg)

@@ -1,5 +1,5 @@
 ---
-title: Git commit phần 1: Chỉnh sửa commit
+title: Git commit phần 1, chỉnh sửa commit
 categories:
   - git
   - git-basic
@@ -40,3 +40,10 @@ Một trích dẫn của git book về [Git-Branching-Rebasing](https://git-scm.
 
 Còn về ví dụ, mình thấy chưa có gì nhiều về mặt logic, nó khá đơn giản, mình sẽ bổ sung sau. See you late, thank you for reading.
 
+* Cuối cùng
+
+Mình viết bài này hoàn toàn là vì cộng đồng, nhưng nếu các bạn thấy hay, có ích mà muốn donate cho mình, mình rất cảm ơn, cũng như là một nguồn động lực to lớn để mình ra được các bài viết chất lượng hơn.
+
+Buy me a coffee
+
+![Buy me a coffee](/assets/images/coffe.jpg)
