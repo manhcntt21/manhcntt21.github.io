@@ -1,5 +1,5 @@
 ---
-title: Git commit phần 1
+title: Git commit phần 1: Chỉnh sửa commit
 categories:
   - git
   - git-basic
