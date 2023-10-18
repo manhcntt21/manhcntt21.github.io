@@ -12,7 +12,7 @@ I spent my childhood growing up in Hung Ha district, Thai Binh province, but I'v
 
 There are four people in my family, I live with my brother in Hanoi and my parents live in Thai Binh. I'm sill single and I have no plans to get marriaged.
 
-I love listening to music and reading book in my free time, because I don't have much time and it makes me feel relaxed. Furthermore I live getting out of city on the weekend to explore the surrounding areas.
+I love listening to music and reading book in my free time, because I don't have much time and it makes me feel relaxed. Furthermore I like getting out of city on the weekend to explore the surrounding areas.
 
 Luckily, I'm a computer science with a very good degree. I have three years of experience in Java Development, special with Spring Boot framework.
 
